@@ -1,0 +1,8 @@
+
+[InstallMedia]
+name=Red Hat Enterprise Linux 6.5
+mediaid=1384196515.415715
+metadata_expire=-1
+gpgcheck=0
+cost=500
+enabled=0
